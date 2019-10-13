@@ -2,6 +2,8 @@
   profiles:
     active: dev
 ---
+server:
+  port: 8202
 spring:
   profiles: dev #开发环境
   application:
